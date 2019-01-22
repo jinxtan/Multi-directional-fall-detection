@@ -1,0 +1,2 @@
+# Multi-directional-fall-detection
+15 healthy subjects (3 females and 12 males), with the average age of 25±9 years were enrolled in this study. The average height is 174±5.4 cm for males and 164±3.3 cm for females, and an average weight of 70±5.4 kg for males and 52±6.1 kg for females. More specifically, 4 different types of falls and 5 ADLs were simulated by each tester, totaling 63 forward falls, 63 backward falls, 68 left side falls, and 67 right side falls and 299 ADLs
